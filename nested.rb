@@ -125,4 +125,9 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
+
+     adding_to_dani = ["Assembly"]
+     programmer_hash
+
+  programmer_hash
 end
