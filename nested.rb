@@ -127,7 +127,7 @@ def adding_to_dennis
      }
 
      adding_to_dani = ["Assembly"]
-     programmer_hash
+     programmer_hash[:dennis_ritchie][:languages] << adding_to_dani
 
   programmer_hash
 end
